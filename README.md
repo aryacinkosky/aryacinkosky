@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://cdn.discordapp.com/attachments/588460106124099595/1144776892881322044/picofme_6.png" alt="Markdownify" width="150"></a>
+  <br>
+  Arya Cinkosky (They/Them)
+  <br>
+</h1>
 
-<!--
-**aryacinkosky/aryacinkosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Cybersecurity student from Colorado - Webdev and Computer Hobbiest</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+⭐ Fascinated with open-source technologies and their histories (especially that of the Linux Kernal!) 
+  <br/>
+⭐ Creating resources for myself and others through appealing accessibility-centric websites 
+  <br/>
+⭐ Unhealthy obsession with homelabs and self-hosted software alternatives 
+  <br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<h3 align="center">LEAVE NOTHING UNDOCUMENTED!</h3>
+
+<p align="center">
+  It is my philosophy to make sure no process goes undocumented, to ensure legacy support and to improve personal productivity!
+</p>
