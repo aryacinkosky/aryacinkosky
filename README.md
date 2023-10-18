@@ -6,7 +6,7 @@
 
 <h4 align="center">Cybersecurity student from Colorado - Webdev and Computer Hobbiest</h4>
 
-<p align="center">
+<p align="left">
 ⭐ Fascinated with open-source technologies and their histories (especially that of the Linux Kernal!) 
   <br/>
 ⭐ Creating resources for myself and others through appealing accessibility-centric websites 
