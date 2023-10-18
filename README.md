@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://cdn.discordapp.com/attachments/588460106124099595/1144776892881322044/picofme_6.png" alt="Markdownify" width="150"></a>
-  <br>
   Arya Cinkosky (They/Them)
   <br>
 </h1>
