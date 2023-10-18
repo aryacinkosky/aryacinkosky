@@ -14,11 +14,3 @@
 ⭐ Unhealthy obsession with homelabs and self-hosted software alternatives 
   <br/>
 </p>
-
-<hr/>
-
-<h3 align="center">LEAVE NOTHING UNDOCUMENTED!</h3>
-
-<p align="center">
-  It is my philosophy to make sure no process goes undocumented, to ensure legacy support and to improve personal productivity!
-</p>
